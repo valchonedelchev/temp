@@ -1,0 +1,22 @@
+{
+  "name": "public",
+  "homepage": "https://github.com/valchonedelchev/temp",
+  "authors": [
+    "Valcho Nedelchev <vulcho@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-cookies": "^1.5.5",
+    "angular-material": "^1.0.8"
+  }
+}
